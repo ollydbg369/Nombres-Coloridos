@@ -29,9 +29,9 @@ Las teclas y comandos pueden ser cambiados en el archivo de configuración--> Mo
 cmdAmigo=cla\
 cmdEnemigo=cle\
 cmdOnOff=cl\
+tecla1=56\
 tecla2=56\
 cmd=col\
-tecla1=56\
 * Códigos de teclas para reemplazar en el archivo de configuración ---> https://www.yoelprogramador.com/teclas-del-teclado-y-valores-de-codigos-de-tecla/
 
 # Video
