@@ -15,8 +15,24 @@ Este mod te permite cambiar el color de los nombres de los jugadores.
 * MOONLOADER 0.2.6.5 + Librerias 
 
 # Instrucciones de uso
+Tecla: 8 : Abre el menú principal para agregar, eliminar y editar los jugadores
 /col Abre el menú principal para agregar, eliminar y editar los jugadores
 
 /cl Desactiva el mod, todos los jugadores que estén almacenados en las categorías del menú se les pondra el color blanco por defecto a excepción de los policías, esta función de desactivar los colores se aplicará a todos los jugadores en el servidor, excepto a los jugadores que tengan el color del nombre azul de los policías que se puede cambiar con el comando /sapdcolor [ID de jugador]
+
+/cla [ID Jugador] : Agrega al jugador a la lista de amigos del mod
+
+/cle [ID Jugador] : Agrega al jugador a la lista de enemigos del mod
+
+Las teclas y comandos pueden ser cambiados en el archivo de configuración..> Moonloader/Config/nombres_coloridos.ini
+[Settings]
+cmdAmigo=cla
+cmdEnemigo=cle
+cmdOnOff=cl
+tecla2=56
+cmd=col
+tecla1=56
+
+Códigos de teclas para reemplazar en el archivo de configuración --->
 
 # Video
