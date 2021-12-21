@@ -25,7 +25,7 @@ Tecla: 8 : Abre el menú principal para agregar, eliminar y editar los jugadores
 /cle [ID Jugador] : Agrega al jugador a la lista de enemigos del mod
 
 Las teclas y comandos pueden ser cambiados en el archivo de configuración--> Moonloader/Config/nombres_coloridos.ini\
---Settings]\
+[Settings]\
 cmdAmigo=cla\
 cmdEnemigo=cle\
 cmdOnOff=cl\
