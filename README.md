@@ -9,7 +9,7 @@ Este mod te permite cambiar el color de los nombres de los jugadores.
 * Agregar una nota a los jugadores que esten en agregados en el menú (útil para recordar quién te mató o a los miembros de tu banda)
 # Instalación
 * Extraer el archivo .zip con winrar y copiar todos los archivos y carpetas a la carpeta Moonloader
-# Requirimientos
+# Requerimientos
 * SAMP 0.3.7
 * SAMPFUNCS 5.4.1
 * MOONLOADER 0.2.6.5 + Librerias 
