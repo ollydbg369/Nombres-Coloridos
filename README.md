@@ -33,7 +33,8 @@ cmdOnOff=cl
 tecla2=56
 cmd=col
 tecla1=56``
-
+sd<br />
+sd
 * Códigos de teclas para reemplazar en el archivo de configuración ---> https://www.yoelprogramador.com/teclas-del-teclado-y-valores-de-codigos-de-tecla/
 
 # Video
