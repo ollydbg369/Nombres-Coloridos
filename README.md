@@ -31,7 +31,8 @@ cmdEnemigo=cle\
 cmdOnOff=cl\
 tecla1=56\
 tecla2=56\
-cmd=col
+cmd=col\
+cmdcolorsapd=sapdcolor
 * Puedes hacer copias de seguridad de tu listas de nombres copiando nombres_amigos.txt y nombres_enemigos.txt que se encuentran en GTASANANDREAS/Moonloader/config/
 * No se debe agregar / en el archivo si deseas cambiar los comandos
 * Códigos de teclas para reemplazar en el archivo de configuración ---> https://www.yoelprogramador.com/teclas-del-teclado-y-valores-de-codigos-de-tecla/
