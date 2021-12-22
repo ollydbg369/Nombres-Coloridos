@@ -20,6 +20,8 @@ Tecla: 8 : Abre el menú principal para agregar, eliminar y editar los jugadores
 
 /cl Desactiva el mod, todos los jugadores del servidor se les pondra el color blanco por defecto, esta función de desactivar los colores se aplicará a todos los jugadores en el servidor, excepto a los jugadores que tengan el color del nombre azul de los policías que se puede cambiar con el comando /sapdcolor [ID de jugador]
 
+/sapdcolor [ID de jugador] : El color del nombre de este jugador no sera eliminado por el comando /cl
+
 /cla [ID Jugador] : Agrega al jugador a la lista de amigos del mod
 
 /cle [ID Jugador] : Agrega al jugador a la lista de enemigos del mod
