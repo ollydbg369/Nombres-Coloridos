@@ -18,7 +18,7 @@ Este mod te permite cambiar el color de los nombres de los jugadores.
 Tecla: 8 : Abre el menú principal para agregar, eliminar y editar los jugadores\
 /col Abre el menú principal para agregar, eliminar y editar los jugadores
 
-/cl Desactiva el mod, todos los jugadores que estén almacenados en las categorías del menú se les pondra el color blanco por defecto a excepción de los policías, esta función de desactivar los colores se aplicará a todos los jugadores en el servidor, excepto a los jugadores que tengan el color del nombre azul de los policías que se puede cambiar con el comando /sapdcolor [ID de jugador]
+/cl Desactiva el mod, todos los jugadores del servidor se les pondra el color blanco por defecto, esta función de desactivar los colores se aplicará a todos los jugadores en el servidor, excepto a los jugadores que tengan el color del nombre azul de los policías que se puede cambiar con el comando /sapdcolor [ID de jugador]
 
 /cla [ID Jugador] : Agrega al jugador a la lista de amigos del mod
 
