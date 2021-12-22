@@ -40,3 +40,4 @@ cmdcolorsapd=sapdcolor
 * Códigos de teclas para reemplazar en el archivo de configuración ---> https://www.yoelprogramador.com/teclas-del-teclado-y-valores-de-codigos-de-tecla/
 
 # Video
+https://www.youtube.com/watch?v=auYZCkpPGHQ
